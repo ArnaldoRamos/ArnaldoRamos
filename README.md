@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋,Eu sou Arnaldo Ramos</h1>
+<h1 align="center">Iae,já que está aqui me segue!!Eu me chamo Arnaldo Ramos</h1>
 <h3 align="center">Desenvolvedor Full Stack disposto a solucionar desafios e atingir metas. Almejo aprender cada vez mais sobre programação.</h3>
 
 <h3 align="left">Connect with me:</h3>
